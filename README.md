@@ -6,7 +6,7 @@ This allows for compatibility between JNSQ and MPE
 
 I'm assuming you are capable of manual mod instalation, and I wouldn't reccomend using CKAN as CKAN will probably freak out that things will be missing
 
-Dependancies are OPM and its dependancies, Sigma-Dimensions and its dependancies
+Dependancies are MPE and its dependancies, Sigma-Dimensions and its dependancies
 
 to install, simply drag the GameData folder into the KSP install directory, or the contents of GameData into the KSP GameData folder
 It might ask to replace some, hit yes.

@@ -1,7 +1,5 @@
 # JNSQ-MPE-Compatibility-Pack
 
-# NOTE, THIS DOES ABSOLUTELY NOTHING EXCEPT MAKE EELOO COMPATIBLE, IT DOES NOT RESCALE THE PLANETS, CURRENTLY WORKING ON PATCH TO FIX THIS
-
 For those who think JNSQ, GEP, and GPP together aren't enough planets
 
 This allows for compatibility between JNSQ and MPE
